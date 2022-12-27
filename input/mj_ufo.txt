@@ -1,0 +1,4 @@
+oi 36000
+tojo 42500
+matsugase 17600
+setokuma 3900
